@@ -7,14 +7,11 @@
  */
 
 /**
- * Description of Kontroler1
+ * Description of kontroler2
  *
- * @author Dell
+ * @author Luka
  */
-class Kontroler1 extends CI_controller{
-    //put your code here
-    public function stivigej()
-    {
+class kontroler2 {
+// stivi gej
     }
 }
-
